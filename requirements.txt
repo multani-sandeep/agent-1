@@ -1,0 +1,6 @@
+typer
+pypdf
+python-dotenv
+requests
+google-genai
+pillow
